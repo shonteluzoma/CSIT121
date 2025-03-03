@@ -1,0 +1,13 @@
+body { background-color: #ffb6c1;
+    color:darkolivegreen;
+}
+h1, h2, h3 { color: hotpink;}
+#highlight {
+    background-color: hotpink;
+    font-weight: bold;
+    padding: 5px;
+}
+.important-text {
+    color: #darkolivegreen;
+    font-style: italic;
+}
